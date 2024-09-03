@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:ital,wght@0,100;0,300;0,500;1,300&display=swap');
+
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Anton", cursive;
+    color: #0000FF;
+}
+
+h3 + p {
+    text-decoration: underline;
+}
+
+h2 { text-decoration:underline;}
+
+body { background-color: #93E5DB;
+    font-family: "Poppins", sans-serif;
+font-weight: 300;}
+
+body { color: #00000}
+
+#StrIta {font-weight: 700;}
